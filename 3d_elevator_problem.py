@@ -1,6 +1,4 @@
-# Author: Katie Devine
-# McGill ID: 260833077
-# Assignment 3, Question 3
+# 3d_elevator_problem
 
 import math
 from random import randint
